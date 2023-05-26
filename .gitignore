@@ -1,0 +1,23 @@
+# Direktori dan file yang diabaikan
+
+# Direktori .vscode
+.vscode/
+
+# Direktori node_modules
+node_modules/
+
+# Direktori env 
+env/
+
+# Direktori build
+build/
+
+# Direktori coverage
+coverage/
+
+# Direktori dist 
+dist/
+
+# File package-lock.json
+package-lock.json
+
